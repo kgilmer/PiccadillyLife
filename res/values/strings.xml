@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Piccadilly A-life Simulation</string>
+    <string name="wallpaper_label">Piccadilly A-life</string>
+    <string name="description">Piccadilly A-life Wallpaper</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Piccadilly A-life Simulation</string>
+
+</resources>
