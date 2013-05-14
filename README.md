@@ -13,3 +13,7 @@ A toy artificial life simulation for Android, applying genetic algorithms to the
 - Implement more DNA copy types.
 - Enable as a live wallpaper.
 - Enable settings and more user interaction.
+ 
+## Links
+
+- [JBox2d](http://www.jbox2d.org/)
