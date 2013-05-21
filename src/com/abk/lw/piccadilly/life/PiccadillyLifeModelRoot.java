@@ -37,7 +37,6 @@ import org.jbox2d.dynamics.joints.MouseJointDef;
 import android.graphics.Color;
 import android.graphics.Point;
 import android.graphics.PointF;
-import android.util.Log;
 import com.abk.lw.piccadilly.life.model.FixedEntity;
 import com.abk.lw.piccadilly.life.model.ISimEntity;
 import com.abk.lw.piccadilly.life.model.MovingEntity;

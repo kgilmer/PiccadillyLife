@@ -16,7 +16,6 @@
 package com.abk.lw.piccadilly.life.model;
 
 import java.util.List;
-import java.util.Random;
 import org.jbox2d.collision.shapes.CircleShape;
 import org.jbox2d.common.Vec2;
 import org.jbox2d.dynamics.Body;
