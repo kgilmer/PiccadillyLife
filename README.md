@@ -3,7 +3,7 @@ Piccadilly Life
 
 A toy artificial life simulation for Android, applying genetic algorithms to the jbox2d physics engine.
 
-![Screenshot](http://angelshare.org/images/piccaddillylife.png)
+![Screenshot](https://lh3.ggpht.com/QTRHhSUdB75DGe7nMffZjom2rzBRv108oZQE5n4gB5cxMB4QbAlaPYeiVe6TKT2o2A=h310-rw)
 
 ## Where to go?
 
